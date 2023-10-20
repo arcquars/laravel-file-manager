@@ -1,0 +1,76 @@
+{
+  "_args": [
+    [
+      "laravel-file-manager@https://github.com/Phaniraj35/vue-laravel-file-manager/tarball/5ca3e61a5dace8e353142c00cd5d25e3843a2138",
+      "/home/arcquars/http/ticketinguv"
+    ]
+  ],
+  "_from": "laravel-file-manager@https://github.com/Phaniraj35/vue-laravel-file-manager/tarball/5ca3e61a5dace8e353142c00cd5d25e3843a2138",
+  "_id": "laravel-file-manager@https://github.com/Phaniraj35/vue-laravel-file-manager/tarball/5ca3e61a5dace8e353142c00cd5d25e3843a2138",
+  "_inBundle": false,
+  "_integrity": "sha512-+5njQaZH0WrPtnnv2bjmlKmg2w0KmbBHuMIfbIWDSoeO5thnIZ1znD8l5vBM2VPwOCXP+jDkm2tHzpHrwGF9Ng==",
+  "_location": "/laravel-file-manager",
+  "_phantomChildren": {
+    "ms": "2.0.0"
+  },
+  "_requested": {
+    "type": "remote",
+    "raw": "laravel-file-manager@https://github.com/Phaniraj35/vue-laravel-file-manager/tarball/5ca3e61a5dace8e353142c00cd5d25e3843a2138",
+    "name": "laravel-file-manager",
+    "escapedName": "laravel-file-manager",
+    "rawSpec": "https://github.com/Phaniraj35/vue-laravel-file-manager/tarball/5ca3e61a5dace8e353142c00cd5d25e3843a2138",
+    "saveSpec": "https://github.com/Phaniraj35/vue-laravel-file-manager/tarball/5ca3e61a5dace8e353142c00cd5d25e3843a2138",
+    "fetchSpec": "https://github.com/Phaniraj35/vue-laravel-file-manager/tarball/5ca3e61a5dace8e353142c00cd5d25e3843a2138"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": false,
+  "_spec": "https://github.com/Phaniraj35/vue-laravel-file-manager/tarball/5ca3e61a5dace8e353142c00cd5d25e3843a2138",
+  "_where": "/home/arcquars/http/ticketinguv",
+  "author": {
+    "name": "Aleksandr Manekin",
+    "email": "alexusmai@gmail.com"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "codemirror": "^5.55.0",
+    "core-js": "^3.6.5",
+    "cropperjs": "^1.4.3",
+    "plyr": "^3.4.8",
+    "vue": "^2.6.11",
+    "vue-codemirror": "^4.0.6",
+    "vuex": "^3.4.0"
+  },
+  "description": "File manager for Laravel",
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.4.6",
+    "@vue/cli-plugin-eslint": "~4.4.6",
+    "@vue/cli-plugin-vuex": "~4.4.6",
+    "@vue/cli-service": "~4.4.6",
+    "@vue/eslint-config-airbnb": "^5.0.2",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-vue": "^6.2.2",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "keywords": [
+    "laravel",
+    "file",
+    "manager"
+  ],
+  "license": "MIT",
+  "main": "src/init.js",
+  "name": "laravel-file-manager",
+  "private": false,
+  "scripts": {
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "serve": "vue-cli-service serve",
+    "test:unit": "vue-cli-service test:unit"
+  },
+  "version": "2.5.0"
+}
